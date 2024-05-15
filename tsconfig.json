@@ -12,5 +12,5 @@
     "types": ["vitest/globals"]
   },
   "include": ["**/*.ts"],
-  "exclude": [".husky/", "dist/", "node_modules/", "*.js"]
+  "exclude": [".husky/", "coverage/", "dist/", "node_modules/", "*.js"]
 }
