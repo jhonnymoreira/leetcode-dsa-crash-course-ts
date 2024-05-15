@@ -1,0 +1,16 @@
+{
+  "extends": [
+    "@tsconfig/node20/tsconfig.json",
+    "@tsconfig/strictest/tsconfig.json"
+  ],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "resolveJsonModule": true,
+    "types": ["vitest/globals"]
+  },
+  "include": ["**/*.ts"],
+  "exclude": [".husky/", "dist/", "node_modules/", "*.js"]
+}
