@@ -15,7 +15,7 @@
   - [x] [Find Players With Zero or One Losses](./src/hashing/find-players-with-zero-or-one-losses.ts)
   - [x] [Largest Unique Number](./src/hashing/largest-unique-number.ts)
   - [x] [Maximum Number of Balloons](./src/hashing/maximum-number-of-balloons.ts)
-  - [ ] [Contiguous Array](./src/hashing/contiguous-array.ts)
+  - [x] [Contiguous Array](./src/hashing/contiguous-array.ts)
   - [ ] [Ransom Note](./src/hashing/ransom-note.ts)
   - [ ] [Jewels and Stones](./src/hashing/jewels-and-stones.ts)
   - [ ] [Longest Substring Without Repeating Characters](./src/hashing/longest-substring-without-repeating-characters.ts)
