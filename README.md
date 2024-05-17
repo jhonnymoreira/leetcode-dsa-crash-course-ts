@@ -16,7 +16,7 @@
   - [x] [Largest Unique Number](./src/hashing/largest-unique-number.ts)
   - [x] [Maximum Number of Balloons](./src/hashing/maximum-number-of-balloons.ts)
   - [x] [Contiguous Array](./src/hashing/contiguous-array.ts)
-  - [ ] [Ransom Note](./src/hashing/ransom-note.ts)
+  - [x] [Ransom Note](./src/hashing/ransom-note.ts)
   - [ ] [Jewels and Stones](./src/hashing/jewels-and-stones.ts)
   - [ ] [Longest Substring Without Repeating Characters](./src/hashing/longest-substring-without-repeating-characters.ts)
 - [ ] Linked Lists
