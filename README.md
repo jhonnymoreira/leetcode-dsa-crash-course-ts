@@ -12,7 +12,7 @@
   - [x] [Check if the Sentence Is Pangram](./src/hashing/check-if-the-sentence-is-pangram.ts)
   - [x] [Missing Number](./src/hashing/missing-number.ts)
   - [x] [Counting Elements](./src/hashing/counting-elements.ts)
-  - [ ] [Find Players With Zero or One Losses](./src/hashing/find-players-with-zero-or-one-losses.ts)
+  - [x] [Find Players With Zero or One Losses](./src/hashing/find-players-with-zero-or-one-losses.ts)
   - [ ] [Largest Unique Number](./src/hashing/largest-unique-number.ts)
   - [ ] [Maximum Number of Balloons](./src/hashing/maximum-number-of-balloons.ts)
   - [ ] [Contiguous Array](./src/hashing/contiguous-array.ts)
