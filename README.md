@@ -13,7 +13,7 @@
   - [x] [Missing Number](./src/hashing/missing-number.ts)
   - [x] [Counting Elements](./src/hashing/counting-elements.ts)
   - [x] [Find Players With Zero or One Losses](./src/hashing/find-players-with-zero-or-one-losses.ts)
-  - [ ] [Largest Unique Number](./src/hashing/largest-unique-number.ts)
+  - [x] [Largest Unique Number](./src/hashing/largest-unique-number.ts)
   - [ ] [Maximum Number of Balloons](./src/hashing/maximum-number-of-balloons.ts)
   - [ ] [Contiguous Array](./src/hashing/contiguous-array.ts)
   - [ ] [Ransom Note](./src/hashing/ransom-note.ts)
