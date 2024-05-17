@@ -7,6 +7,10 @@ export default defineConfig({
     coverage: {
       include: ['src/**/*.ts'],
     },
+    isolate: false,
+    sequence: {
+      concurrent: true,
+    },
     globals: true,
     reporters: ['verbose'],
     watch: false,
