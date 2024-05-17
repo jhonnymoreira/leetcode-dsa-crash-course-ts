@@ -8,7 +8,7 @@
   - [x] [Running Sum of 1D Array](./src/arrays-and-strings/running-sum-of-1-d-array.ts)
   - [x] [Minimum Value to Get Positive Step by Step Sum](./src/arrays-and-strings/minimum-value-to-get-positive-step-by-step-sum.ts)
   - [x] [K Radius Subarray Averages](./src/arrays-and-strings/k-radius-subarray-averages.ts)
-- [ ] Hashing
+- [x] Hashing
   - [x] [Check if the Sentence Is Pangram](./src/hashing/check-if-the-sentence-is-pangram.ts)
   - [x] [Missing Number](./src/hashing/missing-number.ts)
   - [x] [Counting Elements](./src/hashing/counting-elements.ts)
@@ -18,7 +18,7 @@
   - [x] [Contiguous Array](./src/hashing/contiguous-array.ts)
   - [x] [Ransom Note](./src/hashing/ransom-note.ts)
   - [x] [Jewels and Stones](./src/hashing/jewels-and-stones.ts)
-  - [ ] [Longest Substring Without Repeating Characters](./src/hashing/longest-substring-without-repeating-characters.ts)
+  - [x] [Longest Substring Without Repeating Characters](./src/hashing/longest-substring-without-repeating-characters.ts)
 - [ ] Linked Lists
   - [ ] [Middle of the Linked List](./src/linked-lists/middle-of-the-linked-list.ts)
   - [ ] [Remove Duplicates from Sorted List](./src/linked-lists/remove-duplicates-from-sorted-list.ts)
