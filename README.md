@@ -20,7 +20,7 @@
   - [x] [Jewels and Stones](./src/hashing/jewels-and-stones.ts)
   - [x] [Longest Substring Without Repeating Characters](./src/hashing/longest-substring-without-repeating-characters.ts)
 - [ ] Linked Lists
-  - [ ] [Middle of the Linked List](./src/linked-lists/middle-of-the-linked-list.ts)
+  - [x] [Middle of the Linked List](./src/linked-lists/middle-of-the-linked-list.ts)
   - [ ] [Remove Duplicates from Sorted List](./src/linked-lists/remove-duplicates-from-sorted-list.ts)
   - [ ] [Reverse Linked List II](./src/linked-lists/reverse-linked-list-ii.ts)
 - [ ] Stacks and Queues
